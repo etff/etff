@@ -2,8 +2,8 @@
 
 I'm backend developer. 
 
-- 🌱 I’m interested in OOP, Clean Code, DDD, Spring
-- 🌹 My Blog -> itcoin.tistory.com
+- ⚡ I’m interested in OOP, Clean Code, DDD, Spring
+- 😄 My Blog -> itcoin.tistory.com
 - 📫 How to reach me: -> yesyesyes@hotmail.co.kr
 
 <!--
