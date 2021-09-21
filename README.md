@@ -3,7 +3,6 @@
 I'm backend developer. 
 
 - ⚡ I’m interested in OOP, Clean Code, DDD, Spring
-- TIL : https://velog.io/@etff
 - 📫 How to reach me -> yesyesyes@hotmail.co.kr
 
 <!--
