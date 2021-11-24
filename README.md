@@ -2,7 +2,6 @@
 
 I'm backend developer. 
 
-- ⚡ I’m interested in OOP, Clean Code, DDD, Spring
 - 📫 How to reach me -> yesyesyes@hotmail.co.kr
 
 <!--
