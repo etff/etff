@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm backend developer. 
+I'm software developer. 
 
 - 📫 How to reach me -> yesyesyes@hotmail.co.kr
 
